@@ -1,0 +1,1 @@
+The python script automate the upload of csv files within a folder to a remote AWS Postgress RDS. After uploading, it moves the sucessfully uploaded files to the "Uploaded" folder that would be created by the script.
